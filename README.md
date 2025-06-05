@@ -1,4 +1,4 @@
-# Akademik Makale Toplama Betiği: Elmas Tabanlı KuantUM Teknolojileri
+# Akademik Makale Toplama Betiği: Elmas Tabanlı Kuantum Teknolojileri
 
 Bu proje, Google Colab üzerinde çalışan bir Python betiğidir ve [arXiv](https://arxiv.org/) ile [Semantic Scholar](https://www.semanticscholar.org/) platformlarından "elmas tabanlı kuantum teknolojileri" üzerine odaklanan akademik makaleleri otomatik olarak toplamak için tasarlanmıştır. Betik, toplanan makalelerin başlık, özet, yazarlar, yayın tarihi, DOI ve PDF bağlantısı gibi temel metaverilerini çıkarır ve bu verileri Google Drive'a hem JSON hem de CSV formatlarında kaydeder.
 
