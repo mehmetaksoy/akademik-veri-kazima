@@ -86,15 +86,6 @@ Bu betik, Google Colab ortamında çalıştırılmak üzere tasarlanmıştır.
 
 ## 📄 Çıktı Dosyaları
 
-## 📞 İletişim
-
-🐛 **Bug Report**: GitHub Issues kullanın  
-💡 **Feature Request**: Discussions bölümünden önerinizi paylaşın  
-📧 E-posta: [mehmetaksoy49@gmail.com]
-
-- Pull Request ile katkıda bulunun
-- Projeyi yıldızlamayı unutmayın! ⭐
-
 ---
 
 **Not**: Bu proje eğitim amaçlı geliştirilmiştir ve akademik çalışmalarda referans olarak kullanılabilir.
@@ -103,3 +94,13 @@ Betik başarıyla tamamlandığında, Google Drive'ınızda `CONFIG["output_path
 
 * `quantum_diamond_dataset.json`: Toplanan tüm makale verilerini içeren JSON dosyası.
 * `quantum_diamond_dataset.csv`: Toplanan tüm makale verilerini içeren CSV dosyası (yazar listeleri noktalı virgülle ayrılmış string olarak kaydedilir).
+
+
+## 📞 İletişim
+
+🐛 **Bug Report**: GitHub Issues kullanın  
+💡 **Feature Request**: Discussions bölümünden önerinizi paylaşın  
+📧 E-posta: [mehmetaksoy49@gmail.com]
+
+- Pull Request ile katkıda bulunun
+- Projeyi yıldızlamayı unutmayın! ⭐
